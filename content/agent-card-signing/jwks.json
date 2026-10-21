@@ -1,1 +1,1 @@
-{"keys":[{"crv":"Ed25519","x":"rpgauAUjx_FAc6iFxgUHtfqOIn2LDXVpYik6PXgCL1M","kty":"OKP","kid":"work-risk-assay-service-2026-07-21","alg":"EdDSA","use":"sig"}]}
+{"keys":[{"crv":"Ed25519","x":"YuNhUbvvY8BWw19HHh4Q_y17kUFmxUNg_fgnscAHNz4","kty":"OKP","kid":"work-risk-assay-service-2026-10-21","alg":"EdDSA","use":"sig"}]}
