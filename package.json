@@ -13,5 +13,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/causeway-services/software-work-risk-assay-service.git"
+  },
+  "license": "Apache-2.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
